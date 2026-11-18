@@ -1,8 +1,6 @@
 # MySQL-Assignment-1-DDL-Commands-Constraints
 # MySQL Assignment 1 – DDL Commands & Constraints
 
-*An employee database project completed using MySQL Workbench.*
-
 ## Problem Description
 
 The objective was to create an employee database, practice DDL commands, and apply constraints to maintain valid data and relationships between tables.
